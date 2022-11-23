@@ -18,9 +18,9 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCir7aW7p5MIZSjiCi00L7Ig' // ubah aia
+global.youtube = 'https://youtube.com/c/@ZallMods' // ubah aia
 global.ig = '' // ubah aja
-global.email = 'jansenbot96@gmail.com'
+global.email = 'zallmods992@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = '𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒' //ubah jadi nama mu, note tanda ' gausah di hapus!
@@ -28,8 +28,8 @@ global.botname = '𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒' //ubah jadi nama bot
 global.footer = '𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281364399250','12524000681'] // ubah aja pake nomor lu
-global.premium = ['6281364399250'] // ubah aja pake nomor lu
+global.owner = ['6283195366404','6283833031795','6283877604686','62895330006855'] // ubah aja pake nomor lu
+global.premium = ['6283195366404'] // ubah aja pake nomor lu
 global.packname = '𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒' // ubah aja
 global.ownerr = ['𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒'] // ubaha aja
 global.author = '𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒' //ubah aja
@@ -40,7 +40,7 @@ global.sp = '⭔' // Gausah Juga
 // Terserah
 global.mess = {
     nsfw: '*Fitur NSFW tidak diaktifkan, chat admin grup supaya diaktifkan*_',
-    wait: '*Loading... Sabar Wibu*_',
+    wait: '*Sabar Wibu*_',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',    
 }
