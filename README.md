@@ -1,70 +1,237 @@
+## BACA DULU BANG
 
-  <body>
-<h1 align="center">🔥 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 🔥</h1>
-<br>
-<div align="center">
-<img src="https://i.imgur.com/jx17oHT.gif">
-</div>
-<br>
-</p>
-<div>
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
-<div>
-</p>
-</p>
-<h4><font size="2"><a href="https://youtube.com/@jansenmods"><font color="red">SUBSCRIBE</font>
-</h4>
-<h4><font size="2"><a href="https://www.instagram.com/@jansenp1000=id"><font color="red">FOLLOW INSTAGRAM</font>
-</h4>
-<h4><font size="2"><a href="https://t.me/haikal857"><font color="red">TELEGRAM</font>          
-</p>
-</p>
-<a href="https://trakteer.id/hw-mods-wa-haikal" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="15" style="border:0px;height:25px;" alt="DONASI FOR ME :V"></a>
-</p>
-<p align="center"> </p> <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> </p> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> </p> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> </p>
- </p> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> </p> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> </p> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
+> **Warning**: Sc nya gk support termux. [`Klik disini untuk download sc yg support termux`](https://github.com/zeeone-ofc/Alphabot-Md#For-Termux)
+
+-----------------------------------------------------
+
+<p align="center">
+<img src="https://github.com/zeeone-ofc/Alphabot-Md/blob/v7.1/image/lol_1.jpg" alt="ALPHA BOT" width="100"/>
+
+
 </p>
 <p align="center">
+<a href="#"><img title="ALPHABOT MULTI DEVICE" src="https://img.shields.io/badge/ALPHABOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
-- My Name Jansen
-</p>
-- Hello All 👋
-<br>
-</p>
-<h2 align="center">🔥 SPOTIFY 🔥</h2>
 <p align="center">
-  <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+<a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/zeeone-ofc/Alphabot-Md"><img title="Recode" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
 </p>
-<p align="center"><a href="https://github.com/HaikaltestBot123"><img src="https://github-readme-stats.vercel.app/api?username=HaikaltestBot123&show_icons=true&theme=radical"></a></p>
+<p align="center">
+<a href="https://github.com/zeeone-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeone-ofc?color=red&style=flat-square"></a>
+<a href="https://github.com/zeeone-ofc/Alphabot-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeone-ofc/Alphabot-Md?color=blue&style=flat-square"></a>
+<a href="https://github.com/zeeone-ofc/Alphabot-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeone-ofc/Alphabot-Md?color=red&style=flat-square"></a>
+<a href="https://github.com/zeeone-ofc/Alphabot-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeone-ofc/Alphabot-Md?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/zeeone-ofc/Alphabot-Md"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/zeeone-ofc/Alphabot-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeone-ofc/Alphabot-Md?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeone-ofc%2FAlphabot-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/zeeone-ofc/Alphabot-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
 </div>
+
+---
+
+## Contents:
+- [Information](#information)
+- [Language support](#support-language)
+- [Install bot](#instalasi)
+- [Install to Replit](for-replit-user)
+- [Install to Railway](for-railway-user)
+- [Install bot termux](#for-termux)
+- [Edit Owner](#edit-owner)
+- [Priview bot feature](#fitur-bot-preview)
+- [Deploy to heroku](#how-to-deploy)
+- [Donate](#donate)
+- [Alphabot group](#official-group)
+- [Thanks to](#thanks-to)
+
+---
+
+## Information
+> Alpahbot-Md adalah bot yang memakai base dari [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Alphabot-Md is a bot whatsapp using a [Baileys](https://github.com/adiwajshing/baileys) library.
+
+## Support Language
+
+- [x] Indonesia
+- [x] Spanish
+- [x] English
+
+But some I haven't changed the language 🛐
 
 # Instalasi
-## Heroku Buildpack
-```bash
-heroku/nodejs
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
+## FOR REPLIT USER
+[![Run on Repl.it](https://repl.it/badge/github/zallmaker/HwmodsV8)](https://repl.it/github/zallmaker/HwmodsV8)
+
+## FOR RAILWAY USER 
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fzeeone-ofc%2FAlphabot-Md)
+
+[`Click Here For Tutorial`](https://youtu.be/BqRauxohbLg)<br>
+
+----------
+
+<p align="center">
+  <a href="https://youtu.be/BqRauxohbLg"><img src="https://telegra.ph/file/ba58c4ad1b43bc285f16b.jpg" />
+</p>
+
 ## For Termux
+- [Download script MediaFire](https://youtu.be/5hzf4OtLZXE)
+
+<p align="center">
+<a href="https://youtu.be/5hzf4OtLZXE"><img src="https://telegra.ph/file/a6662a108627562125df5.jpg" />
+</p>
+
+## Edit Owner 
+
+<details>
+    <summary> <b>Edit Owner Settings.js</b></summary><br/>
+
 ```ts
-termux-setup-storage
-apt update && apt upgrade
-pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/HW-XMTeam/baseikal.git
-cd baseikal-master
-pkg install yarn
-yarn
-npm install
-npm start
+// Website Api (jgn di ganti tomlol)
+global.APIs = {
+	alfa: 'https://api.zeeoneofc.xyz', //apabila link api eror, segera laporkan ke owner
+}
+
+// Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
+global.APIKeys = {
+	'https://api.zeeoneofc.xyz': 'V12',  // 👉 login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+}
+
+// setting 
+global.autoread = false // auto read message
+global.autobio = true 
+global.userRegister = false 
+global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
+
+//language
+//Available in indonesia , english & spanyol 
+//You can request others language 
+global.language = indonesia  //change indonesia to english if you don't understand the language used by the bot
+
+
+// Other
+// Other
+global.botname = "Alphabot-Mdོ" //namabot kalian
+global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
+global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
+global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
+global.email = "zeeoneofc@gmail.com" //bebas
+global.region = "Indonesia" //bebas
+global.timezone = 'Asia/Jakarta' //  timezone wib
+global.premium = ['62887435047326'] //premium user
+global.owner = ["6285342106390","622150996855"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "62887435047326" // nomor wa kalian
+global.ownernomerr = "+62887435047326" //nmr wa kalian
+global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.donasi = "./image/donasi.jpg" // foto donasi di folder image
+global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
+global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
+global.packname = '© Alphabot-Mdོ' //sticker wm ubah
+global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.sessionName = 'session'
+global.typemenu = 'document'
+global.multiplier = 69
+global.limitawal = {
+    premium: "10000",
+    free: 100
+}
+
+global.adventureRPG = 'https://telegra.ph/file/ff94536d69e0f4f3e7b54.jpg'
+global.bankRPG = 'https://telegra.ph/file/ce47dca98cfdb34162abb.png'
+global.bansosRPG = 'https://telegra.ph/file/646af753f38fbf7bbbccc.jpg'
+global.bansosRPG_ = 'https://telegra.ph/file/ba18a18aac022170c8056.jpg'
+global.berburuRPG = 'https://telegra.ph/file/95a202f631ab7172c3f25.jpg'
+global.inventoryRPG = 'https://telegra.ph/file/507395e2edbd1d740a0fd.png'
+global.cooldownRPG = 'https://telegra.ph/file/5e1e191a47028d9648ffa.jpg'
+global.dailyRPG = 'https://telegra.ph/file/17e857848a3afdb1c4fd8.jpg'
+global.hourlyRPG = 'https://telegra.ph/file/bcabf71c0f56207d1629e.jpg'
+global.kandangRPG = 'https://telegra.ph/file/89c3b3ec69d373da8f64b.jpg'
+global.kolamRGP = 'https://telegra.ph/file/0bc07117c78b2c9674b7d.jpg'
+global.mancingRPG = 'https://telegra.ph/file/1420d26b7f04f84993225.jpg'
+global.monthlyRPG = 'https://telegra.ph/file/7eadf65b95d9f7a3ecb46.jpg'
+global.weeklyRPG = 'https://telegra.ph/file/ffc85895d14db97931f0f.jpg'
+global.rpg = {
+  emoticon(string) {
+    string = string.toLowerCase()
+    let emot = {
+      level: '📊',
+      limit: '🎫',
+      health: '❤️',
+      exp: '✨',
+      money: '💹',
+      bank: '🏦',
+      potion: '🥤',
+      diamond: '💎',
+      common: '📦',
+      uncommon: '🛍️',
+      mythic: '🎁',
+      legendary: '🗃️',
+      superior: '💼',
+      pet: '🔖',
+      trash: '🗑',
+      armor: '🥼',
+      sword: '⚔️',
+      pickaxe: '⛏️',
+      fishingrod: '🎣',
+      wood: '🪵',
+      rock: '🪨',
+      string: '🕸️',
+      horse: '🐴',
+      cat: '🐱',
+      dog: '🐶',
+      fox: '🦊',
+      petFood: '🍖',
+      iron: '⛓️',
+      gold: '🪙',
+      emerald: '❇️',
+      upgrader: '🧰'
+      
+    }
+    let results = Object.keys(emot).map(v => [v, new RegExp(v, 'gi')]).filter(v => v[1].test(string))
+    if (!results.length) return ''
+    else return emot[results[0][0]]
+  }
+}
 ```
 
-> ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+</details>
 
-# INSTALL
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
-* [Libwebp](https://developers.google.com/speed/webp/download)
+## Fitur bot preview
+<details>
+<summary> <b>Menu bot</b></summary><br/>
+<img src="https://telegra.ph/file/c438a5d2931a2c5228735.jpg" />
+<img src="https://telegra.ph/file/51ef048fdd08cffcef075.jpg" />
+</details>
 
-</div>
-</body>
+<details>
+<summary> <b>First chat</b></summary><br/>
+<img src="https://telegra.ph/file/98dce708f8bfdb73c175e.jpg" />
+</details>
+
+<details>
+<summary> <b>Register</b></summary><br/>
+<img src="https://telegra.ph/file/ca4d6b39f9b596de02b9b.jpg" />
+</details>
+
+## Donate
+- [Qris all pay](https://telegra.ph/file/447be9e64d95c825f692b.jpg)
+- [Paypal](https://paypal.me/zeeoneofc)
+
+# Official Group
+<a href="https://instabio.cc/Alphabot"><img src="https://img.shields.io/badge/Alphabot Support-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+# Thanks to
+<a href="https://github.com/DikaArdnt"><img src="https://github.com/DikaArdnt.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
+---|---
+[Dika](https://github.com/DikaArdnt)  | [Nurutomo](https://github.com/Nurutomo)
+Owner Hisoka-Morou | Constributor |
+<a href="https://github.com/MhankBarBar"><img src="https://github.com/MhankBarBar.png?size=100" width="100" height="100"></a> | [![FATIH](https://github.com/fatiharridho.png?size=100)](https://github.com/fatiharridho) 
+[Mhankbarbar](https://github.com/MhankBarBar)  | [Fatih A.](https://github.com/fatiharridho)
+Constributor | For Help |
+<a href="https://github.com/FERDIZ-afk"><img src="https://github.com/FERDIZ-afk.png?size=100" width="100" height="100"></a> | [![RASHID](http://github.com/rashidsiregar28.png?size=100)](http://github.com/rashidsiregar28) 
+[Ferdiz](https://github.com/FERDIZ-afk)  | [Rashid](https://github.com/rashidsiregar28)
+For Help | Owner Chikabot |
+<a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![ZEEONE](http://github.com/zeeone-ofc.png?size=100)](http://github.com/zeeone-ofc) 
+[Adiwajshing](https://github.com/adiwajshing) | [zeeone-ofc](https://zeeone-ofc.github.io)
+Owner of Baileys | Owner of Api Alphabot |
+
